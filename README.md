@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 Hi, I'm Raihan 👋
 
 Backend Engineer with 10+ years of experience building:
@@ -20,4 +19,3 @@ Open to:
 - Remote Backend Roles
 - AI Evaluation Projects
 - SaaS Engineering Opportunities
--->
