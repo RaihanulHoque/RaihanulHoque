@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Hi, I'm Raihan 👋
+## Hi, I'm Raihan 👋
 
 Backend Engineer with 10+ years of experience building:
 - Enterprise Applications
