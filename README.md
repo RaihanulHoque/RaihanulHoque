@@ -1,6 +1,6 @@
 ## Hi, I'm Raihan 👋
 
-Backend Engineer with 10+ years of experience building:
+Software Engineer with 12+ years of experience building:
 - Enterprise Applications
 - SaaS Platforms
 - Automation Systems
